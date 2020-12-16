@@ -1,0 +1,52 @@
+body{
+font-family:arial,helvetica;
+text-decoration:blink; 
+}
+.menu{
+    list-style:none;
+	padding:0;
+	background:#020A6A;
+	width:auto;
+    height:auto;
+	max-width: 3000px;
+margin:auto;
+}
+.menu li a{
+	text-decoration: blink;
+	color: white;
+	padding: 20px;
+	display:block;
+}
+	
+	.menu li{
+		display: inline-block;
+		text-align:center;
+		
+	}
+	.menu li a:hover{
+		background:#FE2E2E;
+		}
+		
+ul.menu{
+    margin: 1;
+    padding: 0;
+    display: block;
+    float: left;
+    padding: 0 10px;
+}
+
+h1,h2{
+    color:darkorange;
+    font-size: 40px;
+}
+h3{
+    color:chocolate;
+}
+h4{
+    color:chartreuse;
+    }
+p{
+    color:chartreuse;
+    font-family: cursive;
+    font-size: 18;
+}
